@@ -14,6 +14,8 @@ arm-none-eabi-gcc -v
 
 https://blog.csdn.net/qq_27087571/article/details/88549513
 
+https://zhuanlan.zhihu.com/p/1966993777345397875
+
 ### 设置入口ENTRY
 
 
