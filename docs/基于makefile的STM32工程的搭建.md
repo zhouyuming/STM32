@@ -13,3 +13,11 @@ arm-none-eabi-gcc -v
 ## 链接脚本解析
 
 https://blog.csdn.net/qq_27087571/article/details/88549513
+
+### 设置入口ENTRY
+
+
+### 设置MEMORY
+
+
+### 设置SECTOR
